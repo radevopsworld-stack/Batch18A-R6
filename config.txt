@@ -1,1 +1,2 @@
-
+loginid=amazonuser
+loginpwd=amazon123
